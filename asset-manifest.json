@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%3Cerp/static/css/main.9e2e2d2d.css",
-    "main.js": "/%3Cerp/static/js/main.279a93cb.js",
-    "static/js/453.8ab44547.chunk.js": "/%3Cerp/static/js/453.8ab44547.chunk.js",
-    "static/media/clglogo.png": "/%3Cerp/static/media/clglogo.270f64196d710b4098d1.png",
-    "static/media/upload.svg": "/%3Cerp/static/media/upload.375e7f1f656820ac58222b4ff1deed5f.svg",
-    "static/media/eyewhite.svg": "/%3Cerp/static/media/eyewhite.f6a735abba65e805973a96aa39473e50.svg",
-    "static/media/logout.svg": "/%3Cerp/static/media/logout.7773f7c14f3a3fdae4435eb2c8941e2a.svg",
-    "static/media/Nextwhite.svg": "/%3Cerp/static/media/Nextwhite.b15ceb32fa9713b5ec82f38445d600a2.svg",
-    "static/media/Previouswhite.svg": "/%3Cerp/static/media/Previouswhite.940144b861c69b74432b8041cb7a7e12.svg",
-    "static/media/profile.svg": "/%3Cerp/static/media/profile.9f1699e837b54def03dab7fbf72caf09.svg",
-    "static/media/menu.svg": "/%3Cerp/static/media/menu.eb9555b312971ac0c70dc220f9f2387d.svg",
-    "static/media/login1.svg": "/%3Cerp/static/media/login1.755af1ad3f2d8c78f95c37c1afae0578.svg",
-    "index.html": "/%3Cerp/index.html",
-    "main.9e2e2d2d.css.map": "/%3Cerp/static/css/main.9e2e2d2d.css.map",
-    "main.279a93cb.js.map": "/%3Cerp/static/js/main.279a93cb.js.map",
-    "453.8ab44547.chunk.js.map": "/%3Cerp/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/erp/static/css/main.9e2e2d2d.css",
+    "main.js": "/erp/static/js/main.467303e6.js",
+    "static/js/453.8ab44547.chunk.js": "/erp/static/js/453.8ab44547.chunk.js",
+    "static/media/clglogo.png": "/erp/static/media/clglogo.270f64196d710b4098d1.png",
+    "static/media/upload.svg": "/erp/static/media/upload.375e7f1f656820ac58222b4ff1deed5f.svg",
+    "static/media/eyewhite.svg": "/erp/static/media/eyewhite.f6a735abba65e805973a96aa39473e50.svg",
+    "static/media/logout.svg": "/erp/static/media/logout.7773f7c14f3a3fdae4435eb2c8941e2a.svg",
+    "static/media/Nextwhite.svg": "/erp/static/media/Nextwhite.b15ceb32fa9713b5ec82f38445d600a2.svg",
+    "static/media/Previouswhite.svg": "/erp/static/media/Previouswhite.940144b861c69b74432b8041cb7a7e12.svg",
+    "static/media/profile.svg": "/erp/static/media/profile.9f1699e837b54def03dab7fbf72caf09.svg",
+    "static/media/menu.svg": "/erp/static/media/menu.eb9555b312971ac0c70dc220f9f2387d.svg",
+    "static/media/login1.svg": "/erp/static/media/login1.755af1ad3f2d8c78f95c37c1afae0578.svg",
+    "index.html": "/erp/index.html",
+    "main.9e2e2d2d.css.map": "/erp/static/css/main.9e2e2d2d.css.map",
+    "main.467303e6.js.map": "/erp/static/js/main.467303e6.js.map",
+    "453.8ab44547.chunk.js.map": "/erp/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e2e2d2d.css",
-    "static/js/main.279a93cb.js"
+    "static/js/main.467303e6.js"
   ]
 }
