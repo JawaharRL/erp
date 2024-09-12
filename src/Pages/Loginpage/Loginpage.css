@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+}
+#login-title{
+    text-align: center;
+    color: #fff;
+}
+#login-title:hover{
+    cursor: default;
+
+}
+
+.logincontainer{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(153deg, rgba(1, 119, 193, 0.7) 13%, rgba(0, 94, 152, 0.8724) 46%, #004B79 92%);
+}
+.login-mailid{
+    margin-top: 30px;
+}
+.login-password{
+    margin-top: 20px;
+}
+
+.Loginform{
+    margin: auto;
+    width: 400px;
+    height: fit-content;
+    border-radius: 30px;
+    opacity: 0.95;
+    background: rgba(255, 255, 255, 0.27);
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.68);
+    backdrop-filter: blur(3.6px);
+    /* box-shadow: 5px 5px 20px  0.1px #fff; */
+}
+.form{
+    color: #fafafa;
+    margin: 10%;
+}
+.forgotpassword{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    color: #fafafa;
+    text-align: right;
+}
+#forgotpassword{
+    text-decoration: none;
+   
+}
+.login-button-space{
+    text-align:center;
+    margin-top: 15px;
+}
+.or{
+    margin-top: 20px;
+    color: #fafafa;
+    text-align: center;
+}
+.new-register:hover{
+    cursor: pointer;
+
+}
+input[type="password"]{
+    width: 100%;
+    background-color: #fafafa;
+    border-radius: 8px;
+    padding: 20px;
+    border: none;
+    height: 40px;
+}
+#input-mail{
+    background-color: #fafafa;
+} 
+
+
+@media (width<=600px) {
+    .Loginform{
+        width: 85%;
+    }
+    #forgotpassword{
+        font-size: small;
+    }
+
+}

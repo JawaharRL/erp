@@ -1,0 +1,25 @@
+
+.form-content{
+    background-color: #fff;
+}
+.form-content:hover{
+    cursor: default;
+}
+.form-title{
+    text-align: center;
+    margin: 25px 0px 40px 0px;
+
+}
+/* .registration-navigation{
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.navigate-icon{
+   width: 120px;
+   
+   
+} */
