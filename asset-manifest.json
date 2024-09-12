@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.9e2e2d2d.css",
-    "main.js": "/react-gh-pages/static/js/main.0f29af09.js",
+    "main.js": "/react-gh-pages/static/js/main.ba551883.js",
     "static/js/453.8ab44547.chunk.js": "/react-gh-pages/static/js/453.8ab44547.chunk.js",
     "static/media/clglogo.png": "/react-gh-pages/static/media/clglogo.270f64196d710b4098d1.png",
     "static/media/upload.svg": "/react-gh-pages/static/media/upload.375e7f1f656820ac58222b4ff1deed5f.svg",
@@ -14,11 +14,11 @@
     "static/media/login1.svg": "/react-gh-pages/static/media/login1.755af1ad3f2d8c78f95c37c1afae0578.svg",
     "index.html": "/react-gh-pages/index.html",
     "main.9e2e2d2d.css.map": "/react-gh-pages/static/css/main.9e2e2d2d.css.map",
-    "main.0f29af09.js.map": "/react-gh-pages/static/js/main.0f29af09.js.map",
+    "main.ba551883.js.map": "/react-gh-pages/static/js/main.ba551883.js.map",
     "453.8ab44547.chunk.js.map": "/react-gh-pages/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e2e2d2d.css",
-    "static/js/main.0f29af09.js"
+    "static/js/main.ba551883.js"
   ]
 }
